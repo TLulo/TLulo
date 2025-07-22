@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student from Argentina.<br>I'm passionate about Dev, Robotic and Electronic.<br>I enjoy learning about new techs.<br>I’ve built projects in C, C++, Python, Java, and JavaScript, with more in-depth work in React![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB).
+I'm a computer science student from Argentina.<br>I'm passionate about Dev, Robotic and Electronic.<br>I enjoy learning about new techs.<br>I’ve built projects in C, C++, Python, Java, and JavaScript, with more in-depth work in React⚛️.
 
 ## 🌐 Socials:
 [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://ar.linkedin.com/in/luciano-tula-566b36271](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGXogOMv11ejQAAAZgwCJ6Abzclv6EKf9h8YAvZlMKg2Orj2dBxUTAPX60sVY8Z_1ZxEmRyyvw99wErYApxYJjfQqflC01KVhhgJuwnWXQnsffObUDIUIyNJQt07Dm7aWzj9V0=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluciano-tula-566b36271%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app)) 
